@@ -1,7 +1,3 @@
-Here is a README.md file for your Movie Search Application, tailored to explain the project and its purpose as part of an interview selection process:
-
----
-
 # Movie Search Application
 
 This repository contains a Movie Search Application built using React. The application allows users to search for movies using the Open Library Search API and displays the results as cards with random dog images. The project is part of an interview selection process to demonstrate proficiency in React and web development.
